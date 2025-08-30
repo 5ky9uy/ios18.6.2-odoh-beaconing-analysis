@@ -1,3 +1,5 @@
+(Original Fork Network Left)
+
 # iOS 18.6.2 – Suspicious ODoH Beaconing
 
 This repository contains a threat intelligence report detailing the observation of covert DNS beaconing behavior on a non-jailbroken iOS 18.6.2 device. The activity used Oblivious DoH (ODoH), triggered system processes, and correlated with Bluetooth permission events — suggesting covert telemetry or command-and-control (C2) mechanisms.
